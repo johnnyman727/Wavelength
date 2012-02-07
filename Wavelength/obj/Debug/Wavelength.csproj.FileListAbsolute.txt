@@ -1,0 +1,15 @@
+c:\users\jmckay\documents\visual studio 2010\Projects\Wavelength\Wavelength\Bin\Debug\ApplicationIcon.png
+c:\users\jmckay\documents\visual studio 2010\Projects\Wavelength\Wavelength\Bin\Debug\Background.png
+c:\users\jmckay\documents\visual studio 2010\Projects\Wavelength\Wavelength\Bin\Debug\Wavelength.dll
+c:\users\jmckay\documents\visual studio 2010\Projects\Wavelength\Wavelength\Bin\Debug\Wavelength.pdb
+c:\users\jmckay\documents\visual studio 2010\Projects\Wavelength\Wavelength\Bin\Debug\AppManifest.xaml
+c:\users\jmckay\documents\visual studio 2010\Projects\Wavelength\Wavelength\Bin\Debug\Wavelength.xap
+c:\users\jmckay\documents\visual studio 2010\Projects\Wavelength\Wavelength\Bin\Debug\Microsoft.Phone.Controls.dll
+c:\users\jmckay\documents\visual studio 2010\Projects\Wavelength\Wavelength\Bin\Debug\Microsoft.Phone.Controls.xml
+c:\users\jmckay\documents\visual studio 2010\Projects\Wavelength\Wavelength\obj\Debug\ResolveAssemblyReference.cache
+c:\users\jmckay\documents\visual studio 2010\Projects\Wavelength\Wavelength\obj\Debug\App.g.i.cs
+c:\users\jmckay\documents\visual studio 2010\Projects\Wavelength\Wavelength\obj\Debug\MainPage.g.i.cs
+c:\users\jmckay\documents\visual studio 2010\Projects\Wavelength\Wavelength\obj\Debug\Wavelength.g.resources
+c:\users\jmckay\documents\visual studio 2010\Projects\Wavelength\Wavelength\obj\Debug\Wavelength.dll
+c:\users\jmckay\documents\visual studio 2010\Projects\Wavelength\Wavelength\obj\Debug\Wavelength.pdb
+c:\users\jmckay\documents\visual studio 2010\Projects\Wavelength\Wavelength\obj\Debug\XapCacheFile.xml
